@@ -1,2 +1,5 @@
-# GlobalAzure2022
-Planning and information for Global Azure 2022 event
+# Global Azure 2022 - Sydney
+
+Information for Global Azure 2022 event
+
+Coming soon!
