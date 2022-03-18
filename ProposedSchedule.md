@@ -8,7 +8,7 @@ Come along and reconnect over pizza and drinks with members of the local Sydney 
 
 We will have a brief session covering the plans for Saturday's event, but otherwise this is your chance to see people face-to-face and have a chat!
 
-## Satuday May 7 - 10am - 2.30pm
+## Saturday May 7 - 10am - 2.30pm
 
 Main track: Global Azure 2022 - Sydney - Tech Talks
 
