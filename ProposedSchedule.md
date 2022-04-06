@@ -26,11 +26,6 @@ Main track: Global Azure 2022 - Sydney - Tech Talks
 
 Attendees are invited to stay for a social hour after the event has concluded.
 
-Track 2: Azure AMA - available 10:30 - 12 noon
-
-Bring your questions about building and working with Azure and see if the community can help you find the answers you're looking for!
-
-Track 3: Hands-on workshop - 10am - 14:00 with lunch break.
+Track 2: Hands-on workshop - 10am - 14:00 with lunch break.
 
 Choose from two hands-on labs that you can complete during the day. Attendees will be provided with Microsoft Azure credits. Requires attendee to bring own laptop.
-
