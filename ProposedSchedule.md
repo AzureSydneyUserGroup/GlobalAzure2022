@@ -21,7 +21,7 @@ Main track: Global Azure 2022 - Sydney - Tech Talks
 | 11:15 - 12:00 | AI Governance Models, Methods and Tools in Azure (Panel Discussion) | Dr. David Goad (IBM) & Catherine Wang (Microsoft)
 | 12 noon - 12:45 | Lunch |
 | 12:45 - 13:15 | Talk 3 |
-| 13:15 - 13:45 | Talk 4 |
+| 13:15 - 13:45 | Serverless and Containers on Azure in 30 | Aaron Powell (Microsoft)
 | 13:45 - 14:00 | Day wrap |
 
 Attendees are invited to stay for a social hour after the event has concluded.
