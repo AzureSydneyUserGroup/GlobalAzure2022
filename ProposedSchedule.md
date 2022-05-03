@@ -15,7 +15,7 @@ Main track: Global Azure 2022 - Sydney - Tech Talks
 | Timeslot | Topic | Speaker(s)
 |----------|-------|-----------|
 | 09:30 - 09:55 | Attendee registration open |
-| 10:00 - 10:30 | Talk 1 |
+| 10:00 - 10:30 | Awesome Integration with Azure in 30 | John Billiris (Microsoft) |
 | 10:30 - 10:45 | Morning Tea |
 | 10:45 - 11:15 | Inter-Language Internet: Bringing Translation Services to Web Apps | Renee Noble (Microsoft)
 | 11:15 - 12:00 | AI Governance Models, Methods and Tools in Azure (Panel Discussion) | Dr. David Goad (IBM) & Catherine Wang (Microsoft)
